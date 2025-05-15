@@ -1,0 +1,14 @@
+pip install pywin32
+pip install pyinstaller
+pip install PyMuPDF
+pip install PyMuPDF
+pip install pdf2image pillow
+pip install Pillow
+pip install tkinterdnd2
+
+pip install pyinstaller
+pyinstaller --onefile your_script.py
+
+python print.py
+
+pillow2, real
